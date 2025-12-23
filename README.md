@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Varshith 👋
+Final-year Data Science student | Aspiring SDE / Data Scientist
 
-<!--
-**VarshithRed-dy/VarshithRed-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- Languages: C++, Python
+- Backend: Networking, REST APIs
+- ML: Classification, Feature Engineering
+- Tools: Git, Linux, Docker (learning)
 
-Here are some ideas to get you started:
+### Projects
+- Multithreaded HTTP Web Server (C++)
+- Telecom Churn Prediction (ML)
+- Music Genre Classification (Audio ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Interests
+Systems, scalable backend, applied ML
