@@ -47,8 +47,3 @@ I enjoy working on **systems + data**: APIs, pipelines, modeling, and performanc
 - Credit card fraud detection: https://github.com/VarshithRed-dy/credit-card-fraud-detection  
 - Music genre classification (GTZAN): https://github.com/VarshithRed-dy/music_classifier  
 
----
-
-## 📈 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=VarshithRed-dy&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshithRed-dy&layout=compact)
