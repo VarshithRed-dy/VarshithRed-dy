@@ -5,13 +5,6 @@ I enjoy working on **systems + data**: APIs, pipelines, modeling, and performanc
 
 ---
 
-## 🔭 What I'm working on
-- **NLP / Seq2Seq**: Neural Machine Translation experiments (English↔German, English↔Hindi)
-- **ML for real systems**: early-warning / retention prediction + dashboards
-- **Backend engineering**: FastAPI services, data validation, scalable workflows
-
----
-
 ## 🧰 Tech stack
 - **Languages:** Python, C++
 - **Backend:** FastAPI, REST APIs, sockets/networking
